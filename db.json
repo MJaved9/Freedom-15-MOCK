@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "javed",
+      "age": 22,
+      "gender": "male",
+      "country": "India",
+      "profession": "student"
+    },
+    {
+      "name": "a",
+      "age": "23",
+      "gender": "Male",
+      "country": "a@gmail.com",
+      "profession": "student",
+      "id": 2
+    },
+    {
+      "name": "a1",
+      "age": "24",
+      "gender": "Male",
+      "country": "a1@gmail.com",
+      "profession": "employee",
+      "id": 3
+    }
+  ]
+}
